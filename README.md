@@ -1,6 +1,6 @@
 ## StyleStore##
 
-![StyleStore Logo](https://ibb.co/6Bn3ygw)
+![App Screenshot](https://www.imghippo.com/i/KS1jk1726570662.png)
 
 1. Project Overview
 "StyleStore" is an e-commerce website designed to provide a sleek, modern shopping experience. The design focuses on minimalism while maintaining functionality and user engagement. The primary goal is to ensure a smooth, intuitive user journey, enhancing both aesthetics and performance.
